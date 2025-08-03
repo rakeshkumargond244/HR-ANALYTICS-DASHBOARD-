@@ -57,3 +57,8 @@
 ## Getting Insights from the Dashboard
 
 – Analyze and explain the key takeaways from the visuals.
+
+
+# IMAGE
+
+<img width="1341" height="734" alt="Image" src="https://github.com/user-attachments/assets/a5ed1038-66ef-44c0-bb61-63fbc69d9614" />
